@@ -25,7 +25,7 @@ structure of Process Engineering above.)*
 ## How This Organization Is Structured
 
 ```
-chem-eng-learning-hub          (you are here — top-level entry point)
+Engineer Learning Hub          (you are here — top-level entry point)
 └── chem-eng-projects          (Process Engineering hub — philosophy, general wiki, links to projects)
     └── chem-eng-projects-MogasDebenz   (one specific fictional project)
     └── (future projects, e.g. a crude expansion project)
