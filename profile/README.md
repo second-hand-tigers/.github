@@ -52,3 +52,31 @@ approach for their own group.
   be cloned and reused directly rather than read about.
 
 ## How This Organization Is Structured
+
+```
+Learning Hub (this page)
+├── chem-eng-projects (Process Engineering hub — philosophy, general wiki, links to projects)
+│ ├── chem-eng-projects-MogasDebenz (one specific fictional project)
+│ └── (future projects, e.g. a crude expansion project)
+├── career-learnings-directory (Career Learnings hub — links to contributor repos)
+│ ├── badocter-career-learnings (one contributor's career content)
+│ ├── career-learnings-template (starter template for new contributor repos)
+│ └── (future contributor repos)
+└── toolkit (reusable tooling for running this kind of org)
+```
+
+Internal planning (task boards, cross-project coordination) and toolkit
+code (GitHub App automation used to simulate stakeholder conversations)
+live in separate, non-public-facing repos and aren't linked from here.
+
+## Who This Is For
+
+Built for students and educators looking to teach that career and project
+success depend as much on stakeholder engagement and communication as on
+technical skill. If you're an educator interested in adapting this
+structure or [toolkit](https://github.com/second-hand-tigers/toolkit) for your own course, start with the
+[Process Engineering hub](https://github.com/second-hand-tigers/chem-eng-projects)
+for the general approach, then look at a specific project repo to see it
+in action. If you're an experienced engineer interested in contributing
+career content of your own, start with the
+[Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory).
