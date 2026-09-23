@@ -11,6 +11,12 @@ project content itself.
 > company's design discussions, technology choices, or regulatory timeline.
 > See each individual project repo for its specific disclaimer.
 
+## Announcements
+
+New content is announced on the
+[Second-Hand Tigers LinkedIn page](https://www.linkedin.com/company/second-hand-tigers/);
+the content itself always lives here on GitHub.
+
 ## Career Learnings
 
 Career and non-technical professional-development content, contributed by
@@ -39,11 +45,6 @@ design, and the stakeholder-communication skills a real project demands.
 *(Additional topic areas — e.g. Process Control Modeling — will be listed
 here as they're developed. Each gets its own hub repo, mirroring the
 structure of Process Engineering above.)*
-## Announcements
-
-New content is announced on the
-[Second-Hand Tigers LinkedIn page](https://www.linkedin.com/company/second-hand-tigers/);
-the content itself always lives here on GitHub.
 
 ## Toolkit
 
