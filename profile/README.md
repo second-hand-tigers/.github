@@ -1,4 +1,4 @@
-_[Toggle to Page View](https://second-hand-tigers.github.io/)_
+_[Toggle to Page View](https://second-hand-tigers.github.io/)_ · _[Follow Second-Hand Tigers on LinkedIn](https://www.linkedin.com/company/second-hand-tigers/) for new-content announcements_
 
 # Learning Hub
 
@@ -39,6 +39,11 @@ design, and the stakeholder-communication skills a real project demands.
 *(Additional topic areas — e.g. Process Control Modeling — will be listed
 here as they're developed. Each gets its own hub repo, mirroring the
 structure of Process Engineering above.)*
+## Announcements
+
+New content is announced on the
+[Second-Hand Tigers LinkedIn page](https://www.linkedin.com/company/second-hand-tigers/);
+the content itself always lives here on GitHub.
 
 ## Toolkit
 
