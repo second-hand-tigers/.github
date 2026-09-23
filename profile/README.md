@@ -20,8 +20,8 @@ the content itself always lives here on GitHub.
 ## Career Learnings
 
 Career and non-technical professional-development content, contributed by
-experienced engineers — complementary to, and independent of, the Topic
-Area project work above. Most people are working on a project and a
+experienced engineers — complementary to, and independent of, the
+Technical & Workflow Learnings below. Most people are working on a project and a
 career at the same time; start with whichever one you're more drawn to
 right now.
 
