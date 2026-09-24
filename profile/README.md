@@ -21,8 +21,8 @@ experienced engineers. Pick the row that fits you:
 
 |  | Start here |
 |---|---|
-| Working on a design project | **WORK IN PROGRESS**[Motor Gasoline Sulfur Removal Project](https://second-hand-tigers.github.io/chem-eng-projects-MogasDebenz/) — scoping, design, milestones, flowsheet modeling, PFDs/BFDs, stakeholder engagement |
-| Complete Listing of Technical and Workflow Topics | **WORK IN PROGRESS**[Process Engineering](https://github.com/second-hand-tigers/chem-eng-projects)  |
+| Working on a design project | **WORK IN PROGRESS** [Motor Gasoline Benzene Removal Project](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz) — scoping, design, milestones, flowsheet modeling, PFDs/BFDs, stakeholder engagement |
+| Complete Listing of Technical and Workflow Topics | **WORK IN PROGRESS** [Process Engineering](https://github.com/second-hand-tigers/chem-eng-projects)  |
 
 Internal planning (task boards, cross-project coordination) and toolkit
 code (GitHub App automation used to simulate stakeholder conversations)
@@ -33,14 +33,13 @@ live in separate, non-public-facing repos and aren't linked from here.
 Built for students and educators with specific focus on career and project
 success depending as much on stakeholder engagement and communication as on
 technical skill. 
+
 - If you are a student, start with the topic that feels closest to what you are dealing with right now. Project work and career development happen in parallel, not in sequence — you’re building a project and building a career at the same time, and most people find themselves more pulled toward one than the other at any given moment. That’s expected, not a problem to fix.  
-- If you're an educator interested in adapting this GitHub's site
+- If you're an educator interested in adapting this site's
 structure or [toolkit](https://github.com/second-hand-tigers/toolkit) for your own course, start with the
 [Process Engineering hub](https://github.com/second-hand-tigers/chem-eng-projects)
 for the general approach, then look at a specific project repo to see it
-in action. If you're an experienced engineer interested in contributing
-career content of your own, start with the
-[Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory).
+in action.
 
 ## Site Developers Toolkit
 
