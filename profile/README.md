@@ -7,52 +7,42 @@ experienced engineers. Pick the row that fits you:
 
 ## Where to Start
 
+### Career Learnings
+
 | If you are... | Start here |
 |---|---|
 | Looking for a job | [The Job Hunt](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Job-Hunt) — resumes, LinkedIn, interview prep |
 | Newly hired and want to hit the ground running | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) — career stages and development planning |
 | A manager or leader | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) — developing and staffing your people |
 | Working on communication skills | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) — presentations, BLUF, workplace writing |
-| Working on a design project | [Process Engineering](https://github.com/second-hand-tigers/chem-eng-projects) — flowsheet modeling, PFDs/BFDs, stakeholder engagement |
+| Complete Listing of Career Topics | [Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory) |
 
-Everything else — more career topics, contributor profiles, tools, and how
-this organization is built — is below.
+### Technical & Workflow Learnings
 
-## Career Learnings
+|  | Start here |
+|---|---|
+| Working on a design project | **WORK IN PROGRESS**[Motor Gasoline Sulfur Removal Project](https://second-hand-tigers.github.io/chem-eng-projects-MogasDebenz/) — scoping, design, milestones, flowsheet modeling, PFDs/BFDs, stakeholder engagement |
+| Complete Listing of Technical and Workflow Topics | **WORK IN PROGRESS**[Process Engineering](https://github.com/second-hand-tigers/chem-eng-projects)  |
 
-Career and non-technical professional-development content, contributed by
-experienced engineers — complementary to, and independent of, the
-Technical & Workflow Learnings below. Most people are working on a project and a
-career at the same time; start with whichever one you're more drawn to
-right now.
+Internal planning (task boards, cross-project coordination) and toolkit
+code (GitHub App automation used to simulate stakeholder conversations)
+live in separate, non-public-facing repos and aren't linked from here.
 
-- **[Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory)**
-  — Directory of contributor repos covering topics like career-stage
-  development, communication and marketing, mentoring, and stress
-  management, drawn from individual engineers' real career experience.
+## Who This Is For
 
-## Technical & Workflow Learnings
+Built for students and educators with specific focus on career and project
+success depending as much on stakeholder engagement and communication as on
+technical skill. 
+- If you are a student, start with the topic that feels closest to what you are dealing with right now. Project work and career development happen in parallel, not in sequence — you’re building a project and building a career at the same time, and most people find themselves more pulled toward one than the other at any given moment. That’s expected, not a problem to fix.  
+- If you're an educator interested in adapting this GitHub's site
+structure or [toolkit](https://github.com/second-hand-tigers/toolkit) for your own course, start with the
+[Process Engineering hub](https://github.com/second-hand-tigers/chem-eng-projects)
+for the general approach, then look at a specific project repo to see it
+in action. If you're an experienced engineer interested in contributing
+career content of your own, start with the
+[Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory).
 
-Discipline-based hubs for project execution training — flowsheet modeling,
-design, and the stakeholder-communication skills a real project demands.
-
-- **[Process Engineering](https://github.com/second-hand-tigers/chem-eng-projects)**
-  — Flowsheet modeling, process design, and stakeholder-communication
-  training built around fictional refinery/process projects (e.g. the
-  Motor Gasoline Benzene Removal Project). Start here for anything related
-  to PFDs, BFDs, flowsheet simulation, or the stakeholder-engagement
-  training approach this organization is built around.
-
-> Scenarios and projects linked from here are fictional and illustrative,
-> built for teaching purposes. They are not the actual history of any real
-> company's design discussions, technology choices, or regulatory timeline.
-> See each individual project repo for its specific disclaimer.
-
-*(Additional topic areas — e.g. Process Control Modeling — will be listed
-here as they're developed. Each gets its own hub repo, mirroring the
-structure of Process Engineering above.)*
-
-## Toolkit
+## Site Developers Toolkit
 
 Reusable command-line tools behind how this organization's content is
 built and maintained — not project or career content itself, but the
@@ -63,7 +53,7 @@ approach for their own group.
   MIT-licensed tools (starting with a GitHub wiki dump utility), meant to
   be cloned and reused directly rather than read about.
 
-## How This Organization Is Structured
+### How This Organization Is Structured
 
 ```
 Learning Hub (this page)
@@ -77,18 +67,3 @@ Learning Hub (this page)
 └── toolkit (reusable tooling for running this kind of org)
 ```
 
-Internal planning (task boards, cross-project coordination) and toolkit
-code (GitHub App automation used to simulate stakeholder conversations)
-live in separate, non-public-facing repos and aren't linked from here.
-
-## Who This Is For
-
-Built for students and educators looking to teach that career and project
-success depend as much on stakeholder engagement and communication as on
-technical skill. If you're an educator interested in adapting this
-structure or [toolkit](https://github.com/second-hand-tigers/toolkit) for your own course, start with the
-[Process Engineering hub](https://github.com/second-hand-tigers/chem-eng-projects)
-for the general approach, then look at a specific project repo to see it
-in action. If you're an experienced engineer interested in contributing
-career content of your own, start with the
-[Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory).
