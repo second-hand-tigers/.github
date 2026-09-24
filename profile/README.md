@@ -15,7 +15,7 @@ experienced engineers. Pick the row that fits you:
 | Newly hired and want to hit the ground running | [The Renaissance Engineer](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Renaissance-Engineer) — career stages and development planning |
 | A manager or leader | [The Needs of the Many](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/The-Needs-of-the-Many) — developing and staffing your people |
 | Working on communication skills | [Workplace Communication](https://github.com/second-hand-tigers/badocter-career-learnings/wiki/Workplace-Communication) — presentations, BLUF, workplace writing |
-| Complete Listing of Career Topics | [Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory) |
+| Complete Listing of Career Topics | [Career Learnings Directory](https://github.com/second-hand-tigers/career-learnings-directory#where-to-start) |
 
 ### Technical & Workflow Learnings
 
