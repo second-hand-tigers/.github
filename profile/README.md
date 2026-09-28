@@ -66,6 +66,9 @@ Learning Hub (this page)
 │ └── (future contributor repos)
 └── toolkit (reusable tooling for running this kind of org)
 ```
+---
+
+[Policies](https://github.com/second-hand-tigers/.github/wiki) · [Privacy Policy](https://github.com/second-hand-tigers/.github/wiki/Management-of-Private-Information#part-2-information-the-organization-handles) · [Contributing](https://github.com/second-hand-tigers/.github/blob/main/CONTRIBUTING.md)
 
 ---
 
