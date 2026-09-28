@@ -30,3 +30,5 @@ Some repositories belong to an individual author, such as `<username>-career-lea
 ## Attribution
 
 Each page carries a footer naming its author and license. Please keep the footer intact, and add your own name to pages you author.
+
+*Drafted with AI assistance (Claude, Anthropic); reviewed, verified, and adopted by William Docter.*
