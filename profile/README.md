@@ -64,7 +64,8 @@ Learning Hub (this page)
 │ ├── badocter-career-learnings (one contributor's career content)
 │ ├── career-learnings-template (starter template for new contributor repos)
 │ └── (future contributor repos)
-└── toolkit (reusable tooling for running this kind of org)
+├── toolkit (reusable tooling for running this kind of org)
+└── .github (organization policies, licensing, and contributing terms)
 ```
 ---
 
